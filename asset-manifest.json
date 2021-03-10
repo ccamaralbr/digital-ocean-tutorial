@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/digital-ocean-tutorial/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/digital-ocean-tutorial/static/js/main.60af2c8c.chunk.js",
-    "main.js.map": "/digital-ocean-tutorial/static/js/main.60af2c8c.chunk.js.map",
+    "main.js": "/digital-ocean-tutorial/static/js/main.a48d46ca.chunk.js",
+    "main.js.map": "/digital-ocean-tutorial/static/js/main.a48d46ca.chunk.js.map",
     "runtime-main.js": "/digital-ocean-tutorial/static/js/runtime-main.741761c1.js",
     "runtime-main.js.map": "/digital-ocean-tutorial/static/js/runtime-main.741761c1.js.map",
     "static/js/2.55fd1711.chunk.js": "/digital-ocean-tutorial/static/js/2.55fd1711.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.741761c1.js",
     "static/js/2.55fd1711.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.60af2c8c.chunk.js"
+    "static/js/main.a48d46ca.chunk.js"
   ]
 }
